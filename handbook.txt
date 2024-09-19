@@ -1,0 +1,899 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+TABLE OF CONTENTS
+
+
+
+
+
+
+WELCOME TO CARNEGIE MELLON UNIVERSITYAFRICA	5
+Vision	6
+Mission	6
+Core Values	6
+Programs	6
+Graduate Student Handbook and Catalog	7
+CARNEGIE MELLON UNIVERSITY POLICIES, EXPECTATIONS,	7
+STATEMENT OF ASSURANCE, AND CODE	7
+Statement of Assurance Policy	7
+Carnegie Mellon Code	8
+STAFF AND FACULTY DIRECTORY	9
+Campus Resources	11
+CMU-Africa Facilities	11
+Andrew User ID and Password	13
+Student Laptop Policy	13
+Stolen Laptop Policy	14
+Computing Policy	14
+Computing Best Practices	15
+Computing Security	16
+CMU-Africa Canvas	17
+PRE-MATRICULATION	17
+Admission guidelines	17
+Deferral	17
+MASTER'S DEGREE COMPLETION AND CERTIFICATION	18
+Faculty Advisor and Academic Advisor	18
+Degree Progress and Planning	20
+Student Responsibility	20
+Degree Requirements Timeframe	20
+Course Audit	21
+Retaking Courses	21
+Pass/No Pass Courses	22
+Maximum Units Allowed	22
+Course Add/Course Location	23
+Academic Calendar	23
+Schedule of Classes (SOC)	23
+Academic and Enrollment Forms	23
+Course Changes: Add, Drop, Conflicts, Withdrawal, and Voucher Election	23
+Prerequisites	24
+To access any of The HUB's online services:	24
+Enrollment Verification	24
+Faculty Course Evaluations (FCE)	24
+Degree Certification Process and Graduation	24
+ACADEMIC STANDARDS AND PERFORMANCE	25
+University Policy on Grades	25
+Quality Point Average	25
+Academic Probation	25
+ACADEMIC INTEGRITY	25
+Academic Integrity	25
+Definition of Cheating and Plagiarism	26
+Academic Integrity Procedures	27
+Disciplinary Probation	27
+Academic Disciplinary Actions	27
+CMU-AFRICA ACADEMIC PROGRAMS	27
+Master of Science in Information Technology (MS IT)	28
+MS IT Core Courses	28
+MS IT Internships and Projects	30
+MS IT Internship	30
+Master's Practicum Project for Professional Track	30
+Master's Entrepreneurship Project for Entrepreneurship Track	30
+Master's Research Project for Research Track	30
+Engineering Independent Study	30
+MS IT Elective Courses	31
+Master of Science in Engineering and Artificial Intelligence (MS EAI)	32
+MS EAI Core Courses	32
+MS EAI Engineering Electives	33
+MS EAI Applied Engineering Project	34
+Master of Science in Electrical and Computer Engineering (MS ECE)	35
+Master of Science in ECE Advanced Degree Program (MS-AD in ECE)	35
+UNIVERSITY POLICIES/CMU-AFRICA PROTOCOLS	36
+Complete CMU Policies	36
+Change of Degree Program	36
+Student Leave Policy	36
+Student Suspension/Required Withdrawal Policy	37
+Withdrawal of a Degree	37
+Returning to Carnegie Mellon	37
+Statute of Limitations for Master's Degree Studies	38
+Summary of Graduate Student Appeal and Grievance Procedures	38
+Intellectual Property Policy	38
+Maternity Accommodation Protocol	39
+Safeguarding Educational Equity / Sexual Misconduct Policy	39
+Assistance for Individuals with Disabilities	39
+Ethics Reporting Hotline	40
+Emergency Contacts	40
+Full Time vs. Part Time: Working While Studying	40
+POST-MATRICULATION GUIDELINES	41
+Return of University Property	41
+Career Services Graduate Destination Survey	41
+FINANCIAL ISSUES	41
+Tuition sponsorship	41
+CMU-Africa Financial Aid	41
+Billing & Payments	42
+CMU-AFRICA GRADUATE HANDBOOKS ACKNOWLEDGEMENT FORM	43
+
+WELCOME TO CARNEGIE MELLON UNIVERSITYAFRICA
+
+Welcome to Carnegie Mellon University Africa and the College of Engineering.
+
+Carnegie Mellon University has prominence history of excellence in higher education and global thought leadership in technology innovation and is the first United States research institution offering engineering master's degrees on the continent of Africa.
+
+The College of Engineering at Carnegie Mellon University is a world-class engineering college recognized for excellence, innovation, and the societal relevance and impact of its pursuits. The college produces creative and technically strong engineers and research pioneering solutions to global challenges.
+
+Carnegie Mellon University in Africa has an intentional ambition is to propel all students to reach their highest potential in intellectual and innovative pursuits, personal and social well- being, professional development, leadership, and entrepreneurial discovery that will impact and contribute to the African continent.
+
+As Carnegie Mellon University Africa student, you are now a member of a dynamic community of peers, scholars, and practitioners who will help support and challenge you during your academic journey. All community members are given many privileges and likewise accept responsibilities to uphold the standards of Carnegie Mellon University Africa.
+
+To ensure you are knowledgeable of the university's expectations, policies, and guidelines it is important to familiarize yourself with the CMU-Africa Rword Graduate Handbook and The Word Student Handbook.  Our student handbooks will provide you with information and resources that will ultimately contribute to your academic success and student life experience.
+
+The Carnegie Mellon University Africa community all look forward to our opportunity to provide you with support and resources to ensure your academic and personal success.
+
+
+With Gratitude and Tartan Pride,
+
+Dr. Yvette Underdue Murph
+Director of Enrollment, Student Success, Marketing and CommunicationsDr. Martin Saint
+Director of Academic Affairs Distinguished Service Professor
+BRIEF OVERVIEW OF CMU-AFRICA
+
+In 2011, upon the invitation of the Government of Rwanda (GoR), Carnegie Mellon and the GoR signed an agreement to establish a new CMU location in Kigali, Rwanda. This ambitious and innovative partnership was designed to respond to the critical shortage of high- quality engineering talent required to harness Africa's tremendous potential as home to the fastest-growing workforce in the world.
+CMU-Africa is a regional ICT center of excellence educating a diverse composition of future leaders from all over Africa, who will use their hands-on skills and knowledge to advance technology innovation and grow businesses.
+Visit the CMU-Africa website to obtain information about academics, research student life, event calendar and announcements.
+
+Vision
+Our vision is to advance Africa's intellectual and digital development.
+Mission
+CMU-Africa's mission is to deliver transformative educational programs to cultivate future technology leaders, entrepreneurs and innovators from across Africa. CMU-Africa engages in collaborative research and innovation to address African and global challenges.
+Core Values
+Collaboration
+We commit to each other through transparency, trust, communication, and accountability to work together to achieve our shared goals. We commit to work with a broad range of partners to achieve our mission.
+Excellence
+We commit to the attainment of the highest standards of quality, timeliness, and performance in all our programs, services, and operations.
+Inclusion
+We commit to foster and empower an inclusive community that embraces individuals and ideas from a broad diversity of perspectives.
+Integrity
+We commit to act with honesty, trustworthiness, and dependability in alignment with the highest academic, professional, and ethical standards.
+Programs
+
+Our full-time graduate programs are educating future leaders who will use their hands-on, experiential learning to advance technology innovation and grow the businesses that will transform Africa.
+
+Carnegie Mellon University Africa offers four degree programs:
+
+? Master of Science in Information Technology (MS IT)
+? Master of Science in Electrical and Computer Engineering (MS ECE)
+? Master of Science in Electrical and Computer Engineering Advanced Study Program (MS-AD in ECE)
+? Master of Science in Engineering Artificial Intelligence (MS EAI)
+
+Please note: The instruction for all degrees and programs will occur in English.
+
+Graduate Student Handbook and Catalog
+
+This handbook is intended to set guidelines and expectations for new and current Master's students at Carnegie Mellon University Africa. This handbook is not exhaustive and is subject to revision at any time by Carnegie Mellon University Africa (CMU-Africa) leadership. It covers masters' students in CMU-Africa.
+
+It is the responsibility of each student to read and understand the contents of this handbook. Last revised: July 07, 2023
+This handbook, along with any revisions, will be posted and announced annually to the CMU-Africa website. Students with disabilities may request this handbook in other formats by contacting the Student Affairs Team.
+
+
+CARNEGIE MELLON UNIVERSITY POLICIES, EXPECTATIONS, STATEMENT OF ASSURANCE, AND CODE
+
+University Policies and Expectations
+It is the responsibility of each member of the Carnegie Mellon community to be familiar with university policies and guidelines. In addition to this CMU Africa graduate student handbook, the following resources are available to assist you in understanding community expectations.
+
+* The Word: Student Handbookhttps://www.cmu.edu/student-affairs/theword/* University Policieswww.cmu.edu/policies/* Academic Integrity Policyhttps://www.cmu.edu/policies/student-and-student- life/academic-integrity.html* Graduate Policieshttp://www.cmu.edu/graduate/policies/index.html* College of Engineering Graduate Degree Policieshttps://engineering.cmu.edu/education/academic- policies/graduate-policies/degrees.html
+Statement of Assurance Policy
+Carnegie Mellon University does not discriminate in admission, employment, or administration of its programs or activities on the basis of race, color, national origin, sex, handicap or disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. Furthermore, Carnegie Mellon University does
+
+not discriminate and is required not to discriminate in violation of federal, state, or local laws or executive orders.
+
+For more information about the Statement of Assurance and inquiries concerning the application of and compliance with this statement contact the Office of Institutional Equity and Title IX at institutionalequity@cmu.edu, and/or (412) 268-7125, or by mail Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213.
+
+Carnegie Mellon Code
+The Carnegie Mellon Code is accessible in The Word. Students at Carnegie Mellon, because they are members of an academic community dedicated to the achievement of excellence, are expected to meet the highest standards of personal, ethical, and moral conduct possible.
+These standards require personal integrity, a commitment to honesty without compromise, as well as truth without equivocation and a willingness to place the good of the community above the good of the self. Obligations once undertaken must be met, commitments kept.
+
+As members of the Carnegie Mellon community, individuals are expected to uphold the standards of the community in addition to holding others accountable for said standards. It is rare that the life of a student in an academic community can be so private that it will not affect the community as a whole or that the above standards do not apply.
+The discovery, advancement and communication of knowledge are not possible without a commitment to these standards. Creativity cannot exist without acknowledgment of the creativity of others. New knowledge cannot be developed without credit for prior knowledge. Without the ability to trust that these principles will be observed, an academic community cannot exist. The commitment of its faculty, staff and students to these standards contributes to the high respect the Carnegie Mellon degree holds. Students must not destroy that respect by their failure to meet these standards. Students who cannot meet them should voluntarily withdraw from the university.
+
+Community Standards Overview
+The Community Standards Overview is accessible in The Word. Carnegie Mellon University is committed to cultivating an environment that supports the personal and intellectual growth of each student by promoting our traditions of innovation, leadership, responsibility to society, learning, dedication, commitment to quality and commitment to each other. We are a community with high expectations for those who choose to become members, including established community standards intended to foster behavior that is consistent with an educational setting where each member can achieve their full potential.
+
+Office of Institutional Equity and Title IX
+The Office of Institutional Equity and Title IX is dedicated to promoting equity at Carnegie Mellon University, which includes coordinating the University's efforts to prevent and effectively respond to all forms of gender discrimination (including gender identity discrimination) and sexual misconduct impacting community members, including sexual assault, sexual exploitation, sexual harassment, dating and domestic violence, and stalking.
+To obtain guidance on how to file a report or a complaint of sex discrimination, of sexual harassment, and how the university responds to such reports refer to the Resource Guide.
+
+The Title IX Coordinator can be contacted at tix@cmu.edu, and/or (412) 268-7125, or by mail Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213.
+Campus Security and Fire Safety Report
+Carnegie Mellon University publishes an annual campus security and fire safety report describing the university's security, alcohol and drug, sexual assault, and fire safety policies, and containing statistics about the number and type of crimes committed on the campus, and the number and cause of fires in campus residence facilities during the preceding three years. To obtain a copy of the annual security and fire safety report visit the Carnegie Mellon University Police Department website.
+
+Visit the Carnegie Mellon University Africa website for general information and send email inquiries to africa-info@andrew.cmu.edu.
+
+
+STAFF AND FACULTY DIRECTORY
+
+The Carnegie Mellon University Africa faculty and staff are available to guide and provide you with support to complete your graduate degree program. Refer to the online Directory for the full list and below are primary staff that will assist you with matters.
+
+
+ServiceTitleNameAdmissions and New Student Matriculation toward EnrollmentAdmissions and Enrollment OfficerFlavia MugireAdmissions and New Student Matriculation toward EnrollmentAdmissions and Enrollment OfficerFarida NdangizaGraduate AdmissionsAssociate Director of AdmissionsRosine KamahoroGraduate RecruitmentAssociate Director of RecruitmentAbraham DarrielGuidance with Degree Plans, Course Registration, Curriculum and Degree Program Completion, General Academic AdvisingAcademic AdvisorGikundiro Buki OlgaGuidance with Student Account, Financial and Payment Plan MattersFinance OfficerReginald DonkorInquiries Related to Faculty MattersAcademic Affairs CoordinatorGisele Gihozo
+
+Internships, Career Pathway and Career Professional Development, Guidance with Job PortalCareer Services OfficerPatricia MusiimeMatters Related to Mastercard Foundation Scholars ProgramProgram ManagerSandra MalaikaStudent Affairs, Financial Aid, Student ProgrammingAssociate Director of Student AffairsInes ManziStudent Wellness, Student Clubs, Student Guild, Student VisasStudent Services OfficerMika Inamahoro
+
+Emails to Request Support Services
+
+
+Support Service InquiriesDepartmentEmail AddressCampus FacilityFacilitiesafrica-facilities@andrew.cmu.eduFaculty, Student ConferencesAcademic Affairsafrica-academics@andrew.cmu.eduFinancial and Payment Plan MattersFinanceafrica-finance@andrew.cmu.eduGuidance to Organize Campus Student Event, Guidance with Social Media SupportEvent Managementcmu-africa-events@andrew.cmu.eduHuman ResourcesHuman Resourcesafrica-hr@andrew.cmu.eduIT TicketsInformation Technologyafrica-it-help@andrew.cmu.eduNew Admitted Student MattersGraduate Admissionsafrica-admissions@andrew.cmu.eduStudent Account and Scholarships MattersStudent Accountafrica-financial-aid@andrew.cmu.eduStudent Support MattersStudent Affairsstudentsupport-africa@andrew.cmu.edu
+CMU-Africa Wellness Center
+
+All students are encouraged to take advantage of the various good health and well-being individual and group services offered in the Wellness Center. Confidential in-person and virtual counseling and mental wellness sessions are offered by appointment so please contact Justine Mukamwezi.
+
+Counseling and Psychological Services (CaPS)
+
+The Counseling and Psychological Services (CaPS) located at the CMU Pittsburg campus offers confidential virtual well-being counseling and mental wellness sessions by appointment to support students domestic and international students with their transition to university student life.
+
+Student Organizations
+
+The CMU-Africa Student Guild is an energetic student leadership organization elected by the peers to represent the student body. We encourage you to become involved in our student organizations and participate in various on-campus and off-campus extracurricular activities hosted by the Student Guild and other energetic Student Clubs. The current clubs include Data Science, Embedded Systems, Energy, French "Le Verbe du Technicien," Internet of Things (IoT), Research, Software Engineering, Toastmaster Techy Talker, and Women in Tech. We invite you to visit our Flicker webpage to view photos of our student activities.
+The Student Affairs staff support and provide guidance to the Student Guild and Student Clubs campus to contribute to the overall student life and social interaction experience.
+Campus Resources
+CMU-Africa Facilities
+CMU-Africa is housed in the Regional ICT Center of Excellence Building in the Kigali Innovation City.
+
+Facility Management
+All facility and equipment requests and complaints which may include access to the photocopier, power sockets, water leakages, etc., should be submitted to africa- facilities@andrew.cmu.edu.
+
+Access to Facilities
+* Students will be provided with individual ID cards for secure access to the facility and will be responsible for their individual use.
+* Students are responsible for reporting any security-related incident that they may be aware of.
+* Students on a leave of absence suspension must surrender their student ID card to the Student Services Officer. Lost or stolen cards should be reported immediately to the Student Services Officer.
+* Student ID cards will be deactivated upon graduation.
+
+Lockers
+
+* Students will be assigned a locker and a key on the first day of orientation.
+* Students are responsible for the locker's contents and safe keeping of the key for the duration of their program.
+* Students must clear the locker contents and return the key upon graduation.
+
+Policy on Lost or Stolen Locker Keys
+
+In the event of a lost locker key, students will pay for the cost of reproducing another key or in an extreme case, installing a new lock and key for the locker. Students will be responsible for the locker's contents while the locker is assigned to them. CMU-Africa will not assume any liability for the locker's contents' loss, damage, or theft.
+
+Lounge/ Kitchenette Cleanliness
+The student kitchen/lounge is available to all CMU-Africa students. The cleaning staff will clean the floor and empty the trash bins once a day. Students will be responsible for cleaning the microwave, coffee machine and other electric appliances. For any concerns about the cleanliness, report to the facility officer.
+
+Library Resources
+The Carnegie Mellon University digital library provides access to full-text databases, online journals, books, music and videos and online subject-specific search. Students can access the digital library resources at library.cmu.edu. Most library resources must be accessed through the CMU Virtual Private Network. A customized guide has been created for CMU-Africa students. Students can access this guide at the library https://www.cmu.edu/policies/administrative-and-governance/statement-of- assurance.htmlguide. In addition, hard-copy books can be borrowed from the Academic Affairs Coordinator.
+
+Health Insurance
+
+All CMU-Africa students are eligible to join the CMU-Africa medical insurance plan. To subscribe, students should fill a health insurance form provided during Orientation. The policy runs on an annual renewable basis from September 1,2023 through August 31, 2024. CMU-Africa students who travel to Pittsburgh for a Semester exchange program are required to subscribe to the medical insurance plan and fulfill the immunization requirement. The Pittsburgh immunization guide can be found here.
+
+Security
+All students, faculty and staff will be registered for the CMU-Africa Alert Emergency Notification Service, which sends text messages and emails to registered phones and email accounts in the event of a campus emergency. Registrants will be contacted by the CMU Alert system only if there is a campus emergency. Questions regarding the CMU Alert service should be sent via email to IT Ticket.
+
+Andrew User ID and Password
+An official Andrew User ID is assigned to you upon enrollment and is required to access the Carnegie Mellon Web Portal, email, student account and other computing services. You will set up your confidential password upon your initial access. If you need help with your Andrew User ID and password contact Help Center africa-it-help@andrew.cmu.edu.
+
+Email
+
+All enrolled students are given a G Suite account that will allow email through Web Login and your Andrew ID and password is required for access.
+
+Computing Services
+
+
+Computing Services carries the responsibility for the vision, policy making, planning, development, implementation and overall administration for computing, library, and related technologies in support of teaching, research, and administrative activities at Carnegie Mellon University. Major features of that responsibility are coordinated with other
+institutional leaders, both academic and administrative to ensure that the University's vision is realized.
+
+Student Laptop Policy
+Each new CMU-Africa student is given the option of accepting a laptop provided by CMU- Africa at the start of their CMU-Africa degree program. The provided laptop is to be strictly for use during their studies at CMU-Africa. If they accept the laptop, upon completion of their degree program at CMU-Africa, they are required to either return it in good working condition (as assessed by CMU-Africa IT team) or purchase it at 25% of the original cost of the laptop.
+
+Given their educational purpose for CMU-Africa students, these laptops should not be transferred to anyone else or kept unused by the student. It is acceptable not to take the laptop if a student has a personal laptop that meets or exceeds the CMU-Africa laptop specifications. The CMU-Africa laptops come with a 2-year warranty that covers manufacturing defects but does not cover accidents or negligence. As such, students will be responsible for laptop problems caused by accidents or negligence.
+
+In case a student's CMU-Africa provided laptop needs repair, the student will be responsible for taking it to the vendor. The vendor will determine whether the warranty covers the repair or not. Students will then be responsible for paying the cost of repair if the damage is not covered under the warranty.
+
+CMU-Africa will aid in the following ways:
+
+? Transportation of the damaged laptop to and from the vendor. The student will have
+to be present when the laptop is taken to the vendor. To avoid the student's classroom attendance inconvenience, a CMU-Africa driver may pick the laptop from the vendor on behalf of the student where payment is not a requirement.
+
+? A loaner laptop is available for a maximum of two weeks while their primary laptop (CMU-provided or personal) is being repaired or replaced. The request of a loaner laptop should be submitted to IT Ticket and cc the Student Affairs Team for approval. Note that there are a limited number of loaner laptops available for students, and the loaner should be returned immediately the primary laptop repaired in a period that should not exceed two weeks.
+
+? Two laptops will be available after working hours and during weekends. They can be requested for by sending an email to africa-it-help@andrew.cmu.edu
+
+? The CMU-Africa Student Services Officer will handle cases where a student is unable to cover the cost of laptop repair.
+
+Stolen Laptop Policy
+Students are required to exercise care of the laptop issued to them to prevent loss in the period of their studies at CMU-Africa. Stolen laptops will not be replaced by CMU-Africa.
+
+In the event of a stolen laptop, the student owner is required to report the stolen laptop within 24 hours to the CMU-Africa IT Senior Manager and the Student Services Officer. The report should include a Police Incident Report/Case number. A surcharge of 25% of the cost of the laptop will be required to obtain clearance from the University at the end of the program for all stolen laptops including those that are not recovered.
+
+Failure to report a missing laptop to the Police and CMU-Africa will result in the student having to pay the full cost of the laptop.
+
+Computing Policy
+The purpose of this policy is to set forth guidelines so that members of our community may use the campus network and computing facilities in ways that are responsible and respectful of privacy. This policy sets forth the university's expectations of acceptable behavior on the part of computer systems users at Carnegie Mellon by providing guidelines for appropriate use of computing and related communication systems and examples of inappropriate use.
+These standards of acceptable behavior also extend beyond the campus community into the Internet. Just as it is unacceptable to violate others' rights to privacy, property and resources within Carnegie Mellon, it is also unacceptable to violate those rights on systems that are not at Carnegie Mellon but are accessible through Carnegie Mellon's connection to the Internet.
+
+This policy applies to all users of Carnegie Mellon computing systems, including students, faculty and staff, and any others granted the use of university computing resources. It applies
+
+to the use of all computing facilities owned, leased, operated or contracted by Carnegie Mellon University. As used in this policy, terms such as "computing,"
+"computing/communications systems," "computing resources," etc., refer to all computers, communication systems, and peripherals, software, telephones, and systems with similar functions, which are owned by Carnegie Mellon, or which utilize Carnegie Mellon infrastructure such as telephone lines or computer networks.
+
+Although this policy does not attempt to deal specifically with legal issues, university members are responsible to act in compliance with the law, including any federal, state and local laws governing computer and telecommunications use, as well as all other applicable university policies.
+
+Please review the policy in its entirety and return the acknowledgement form to the Student Services Officer by the end of orientation.
+
+Computing Best Practices
+We ask that students commit themselves to the following computing best practices:
+
+1. Use a strong password or passphrase
+
+Review the Guidelines for Password Management for the definition of a strong password and for recommended practices for safeguarding your password. Never write a password down or share it with anyone.
+
+2. Never leave your computer unattended in public locations
+
+While security cable locks may serve as a theft deterrent, many have been shown to be ineffective against a determined thief. If you need to leave your computer unattended in your car, place it in the trunk or in some location where it is not visible to a passerby.
+
+3. Keep your computer's software up to date
+
+Configure your computer to download and install security updates automatically. Due to the number of patches developed in a relatively short span of time, it can become quite cumbersome to manage patches manually.
+
+4. Safeguard your computer with antivirus software and a personal firewall
+
+Configure your computer's anti-virus software to automatically update every day. New viruses are being discovered on a regular basis, which puts your computer and information at risk if the anti-virus software on your computer is not updated regularly.
+
+5. Safeguard institutional data and your own personal data
+
+Avoid storing sensitive data on CDs, DVDs, USB thumb drives and other types of media that can be easily misplaced or stolen. If storing sensitive data on such media is necessary, ensure
+
+that the data is encrypted. Ensure that all the critical data you need for study or work is backed up using Box or G Suite's Drive.
+
+6. Think before you click
+
+Be cautious when clicking on hyperlinks. Learn how to recognize fraudulent or malicious URLs by playing Anti-Phishing Phil. Never open unexpected email attachments. If in doubt, verify authenticity by phone or email. Don't get lured in by phishing emails. Learn how to recognize phishing traps in email by playing Anti-Phishing Phyllis.
+
+7. Treat your mobile device like any other computer
+
+Smartphones, tablets, and other mobile device are small computers, and they experience many of the same security issues as a more traditional computer. Your pledge to cyber security should apply to your computer as well as your mobile devices.
+
+8. Report suspected security concerns immediately
+
+If you suspect your computer has been compromised, or if you suspect any other type of breach in the security of Carnegie Mellon's resources, contact the Help Desk immediately at africa-it-help@andrew.cmu.edu
+
+9. Do not share copyright protected materials without authorization
+
+You might not like it, but copyrighted materials are protected by law. We all must obey the law.
+
+It is illegal to share copyrighted material for which you do not have written distribution permission. Exercise caution when using file sharing applications.
+
+Computing Security www.cmu.edu/iso
+
+Computing Services' Information Security Office is responsible for directing efforts to maintain the security of data and integrity of computing devices on campus. The Information Security Office (ISO) strives to keep all University affiliates informed about the latest cyber security threats, safe computing practices and relevant information security policies and compliance issues.
+
+Securing your laptops and devices
+Viruses, worms, Trojans, and break-ins are commonplace and can wreak havoc on a student's computer's programs, operating system or data. Students must protect their machines (portable and at home). Information on how you can do this can be found below: https://www.cmu.edu/iso/news/laptop-safety.html
+
+Accessing the Network
+
+Students can access network resources including the Internet, email, Canvas and library resources through the campus wireless network.
+VPN
+CMU-Africa uses Cisco AnyConnect Virtual Private Network (VPN) client to create a secure connection, called a tunnel, between your computer and the server. This tunnel allows secure communications and the ability to connect to Carnegie Mellon resources off-site.
+
+IMPORTANT: VPN does not eliminate the need for an Internet Service Provider (ISP). You must have a valid internet connection before you can connect to the VPN server.
+
+For more detailed information on connecting to the VPN client, please visit the computing services website. Please also review the VPN usage guidelines that have been established to ensure that the Carnegie Mellon community has a clear understanding of proper procedure and usage.
+
+CMU-Africa Canvas https://canvas.cmu.edu/
+Canvas is a web-based course-management system designed to allow students and faculty to participate in online delivery of classes activities to complement face-to-face instruction.
+Canvas is an academic resource center that allows instructors to provide students with course materials, engage in virtual chats, discussion board forums, online quizzes and more.
+
+Canvas allows students to view course registrations, course syllabus, course grades via the online Grade Book, access course information, and documents, submit and upload course assignments, and view staff and faculty announcements. The "Communication" tool allows students to contact instructors and fellow students via email, view student pages and engage with peers in workgroups.
+
+The Canvas User Guide is online and please contact the Canvas Support Team for technical assistance at canvas-help@andrew.cmu.edu or 412-268-9090.
+
+PRE-MATRICULATION
+Admission guidelines
+The CMU-Africa admission committee deploys a holistic approach to make admission decisions in consideration of all aspects of the applicant's application. https://www.africa.engineering.cmu.edu/education/admissions/guidelines/index.html
+Deferral
+Admitted students are permitted to defer enrollment to CMU-Africa for one year after receipt of their acceptance letter and extensions are not granted. To activate the enrollment deferral process please contact Graduate Admissions at africa-admissions@andrew.cmu.edu. You must reapply for financial aid upon your request to reactivate enrollment.
+
+Final Official Transcript
+
+Admitted students must submit their final official transcript(s) in a sealed envelope from the Registrar of the University or College you earned your undergraduate degree. It is mandatory that final official transcript(s) be submitted prior to enrollment at CMU-Africa. Failure to submit a final official transcript(s) will inhibit students to matriculate toward enrollment and register for classes.
+
+MASTER'S DEGREE COMPLETION AND CERTIFICATION
+
+Standard Degree Requirements & Degree Certification: Policies and Procedures
+
+CMU-Africa graduate students must complete the degree program requirements within the standard length of time of the master's program of study. It will take four semesters to fulfill all degree requirements for the MSIT and MSEAI programs, and three semesters for MSECE. Upon completion of the graduate degree program requirements the Academic Advisor will certify all coursework is fulfilled for the master's degree.
+
+Early Completion
+CMU-Africa graduate students that desire to complete all degree program requirements before the specified length of time must consult with their Faculty Advisor to determine if early degree completion is allowed for the master's degree program.
+
+Extended or Longer-than-Standard Completion
+CMU-Africa graduate students who take longer than the standard length of time to complete their degree program of study due to serious, documented medical issues, or other unusual or unforeseen extenuating circumstances may experience an academic interruption to progress toward fulfillment of master's degree requirements.
+
+CMU-Africa graduate students who require longer than the standard time to complete their degree requirements are expected to remain in close contact with their Faculty Advisor and/or the Director of Academic Affairs and will be certified at the end of the semester in which they have completed their degree requirements. Students shall reference Statute of Limitations regarding guidelines and restrictions which place an upper limit on the maximum length of time allowable for master's degree completion and certification.
+
+Additional Guidance for Students
+
+Faculty Advisor and Academic Advisor
+All enrolled students are assigned a Faculty Advisor and Academic Advisor to assist and provide guidance with academic decisions. Faculty Advisors respond to student questions about specific degree programs that include MS IT, MS EAI, and MS ECE. In addition, Faculty Advisors can assist with course selections, offer advice on career pathways and doctoral studies, provide support to ensure students persist and complete degree program.
+
+The primary role of the Academic Advisor is to ensure students adhere to coursework outlined in their academic plan for the master's program to ensure degree completion within the specified length of time. In addition, the Academic Advisor will assist students with items like course registration, withdrawal from courses, academic and personal challenges that may impact degree completion, transfer or request a leave of absence form university, fulfill enrollment verification requests, and other related matters.
+
+Newly admitted students are assigned a Faculty Advisor during new student orientation. Graduate students should schedule a time to meet with their advisor during orientation and/or the first week at the start of the semester.
+
+Financial Aid and Student Account
+Eligibility for financial aid and/or scholarships is contingent upon enrollment at CMU-Africa. It is mandatory for students to persistence toward coursework outlined in the academic plan for the master's program to ensure earned credit is accumulated for successful degree completion to remain eligible for financial aid and/or scholarships.
+
+For students to receive the maximum amount of financial aid and/or scholarships all are required to enroll in at least 36 units each semester to persist toward degree completion.
+
+It is imperative for students to consult with the financial aid team to be familiar with their student account that provides billing, financial aid and scholarship information. It is important for students who complete degrees early or longer than the standard length of time for master's degree program are required to consult with the financial aid team.
+
+Students financial aid award letter that includes a $2,250 stipend is expected to serve once per academic year as a (1) Teaching Fellow, (2) Research Fellow, or (3) Leadership Fellow in exchange for this stipend.
+
+Enrollment and Registration Overview
+Upon successful matriculation to progress toward enrollment at CMU-Africa students are required to meet with their Faculty Advisor to create an academic plan for their master's degree program and register for courses. It is imperative for students to take the initiative to engage with their Academic Advisor and frequently review the coursework and other requirements for their master' degree program on the Academics CMU-Africa webpage.
+
+Student Information Online (SIO)
+
+The Student Information Online (SIO) is the official platform students use to register for courses in 4 easy steps. Students can access the SIO system at The HUB with their Andrew ID and password. The SIO has a Course Planning Module that allows students to view and modify their semester class schedule prior to submitting their course registration in the system. It is mandatory for students to register for credit, non-credit and audited courses.
+
+At the end of the first semester all students are assigned a time to register for the next semester. If the Student Account has a tuition balance and/or fees greater than $0.00 students will not be permitted to register until the balance owed is paid in full.
+Degree Progress and Planning Student Responsibility
+It is the sole responsibility of the student to manage their academic progression of their program. Students are expected to ensure that they are taking the necessary prerequisites and courses to complete degree requirements on time. Students can add courses, drop courses, and select units for variable unit courses through Student Information Online (SIO). It is the students' responsibility to be aware of all academic deadlines, including the add deadline, the drop deadline, the pass/fail deadline, and the audit deadline. Academic deadline information can be found within The HUB's Academic Calendar.
+
+Students who are not progressing toward degree completion and are concerned they are unable to fulfill the required prerequisites and courses for the master's degree program should seek advice from their Faculty Advisor and guidance from the Academic Advisor.
+
+Degree Requirements Timeframe
+The duration of CMU-Africa master's degree programs are defined in the curriculum and each course or component is assigned a specific number of units.
+The total number of units of a course or component indicates the average number of hours a student should devote per week for the course or component in a full semester and this includes presence in class, course readings, assignments. To earn a master's degree students must complete a specific number of units within the duration of a program below.
+
+Degree ProgramUnitsSemestersMaster of Science Information Technology (MS IT)1443 to 4Master of Science Engineering and Artificial Intelligence (MS EAI)1443 to 4Master of Science Electrical and Computer Engineering (MS ECE)972 to 3Master of Science Advance Study in Electrical and Computer Engineering (MS ECE)1333 to 4
+For full-time status students must enroll in at least 36 units each semester. To complete the degree program required prerequisites and courses students may need to enroll in more than 36 units. The maximum number of units allowed in a semester is 48 units.
+Students are responsible for completing their registration each semester via their SIO portal. Students who are not enrolled by the tenth day of class will be withdrawn from the university.
+The typical graduate course is 12 units (i.e., 12 hours per week). There are full-semester courses that are 6 units. CMU also offers half-semester classes called "minis". The average number of hours per week devoted to a mini course should be twice the number of units assigned for that mini. The typical mini is 6 units (i.e., 12 hours per week for half a semester).
+
+Once a student has exceeded the minimum required number of credits for their degree program by 24 units they are ineligible to register for courses and must either graduate or leave the university. Students at the end of their last semester for master's degree program that have not satisfied graduation requirements will need to petition the Director of CMU- Africa to extend to complete coursework. Refer to CMU-Africa Academics for more information about degree programs.
+
+Class Attendance
+It is mandatory for students to be present and attend in-person and virtual classes at the start of the semester. For students that are unable to attend class due to extenuating circumstances they must immediately notify their Instructor, Faculty Advisor and/or Academic Advisor.
+For students that do not attend classes at the start of the semester it will have a detrimental consequence toward degree completion within the standard length of time of the master's program of study.
+The CMU-Africa Academic Advisor will verify all students have attended classes on the first day of the semester of their degree program. The Academic Advisor will deem a student as "withdrawn" from the university if he or she is not present by the tenth day of classes as defined by the Academic Calendar.
+CMU-Africa Academic Advisor will verify the arrival of all matriculated students at the start of new student orientation and will deem a student as "withdrawn" from the university if he or she is not present during the entire orientation.
+Course Audit
+Students are allowed to attend a class to audit with approval from the course instructor for no academic credit or a letter grade. Students are required to register for the class and submit the Course Audit Form to the Academic Advisor with the permission of the course instructor.
+The form must be submitted to the Academic Advisor prior to the tenth day of full semester classes and the fifth day of mini classes. Students are required to submit a Pass/No Pass Approval Form to the Academic Advisor and a letter grade will not be assigned for the course. Students who opt to audit a class or take a course with a "pass or no pass" are required to pay for the course by the payment deadline for guidance refer to Student Financial Services.
+
+Retaking Courses
+For students that do not earn a passing grade for a course may take a different course that will fulfill the degree requirement for the program. A Student may retake a course if the grade earned did not meet the minimum grade requirement.
+All grades are recorded on the student academic transcript and factored into the cumulative Quality Point Average (QPA) to fulfill the master's degree program requirements. The 97 highest units earned to fulfill degree requirements are a factor to calculate the mandatory 3.0 GPA for units required for the specific master's degree program below.
+
+
+ProgramUnitsMS IT144MS EAI144MS ECE97MS AD in ECE133
+Pass/No Pass Courses
+Students who take a pass/no pass course are required to register for the class and submit a Pass/No Pass Approval Form to the Academic Advisor for approval who will then submit to The Hub for processing. After a Pass/No Pass Approval Form and Course Audit Form is submitted to The Hub then a letter grade of 'A'-'R' will not be assigned for the course. The declaration cannot be reversed.
+
+Passing coursework with a letter grade of "A, B or C" is recorded on the student academic record as a Passing grade indicated as letter 'P 'or letter 'S' for Satisfactory and both are equivalent. Coursework with a grade of 'C-' and lower than will not receive credit and is recorded on the student academic record as Not Passing indicated as letter 'N'.
+
+Quality points is not assigned a 'P' for Passing 'S' for Satisfactory or 'N' for Not Passing grades. Units of 'P', 'S' or 'N' grades are not factored into the student's QPA.
+
+The units for Pass/No Pass courses count toward the maximum course load units for the semester and do not count toward the degree requirements. Refer to the 2023-2024 Academic Calendar for the deadline to submit the Pass/No Pass Approval Form. For students that miss the deadline they are ineligible to request the Pass/No Pass option to complete a course.
+
+All students are eligible to take a course with a Pass/No Pass option. pass/fail Students will be charged for the course and billing for tuition will be posted on the Student Account. For part-time students the tuition charged is based on the per-unit tuition rate for the course.
+
+Maximum Units Allowed
+Students may take more than the minimum number of units to graduate as specified in the master's degree program shown in the table below. It is mandatory for students to graduate in the semester in which they fulfill degree requirements. Students with extra units beyond the minimum number of units to graduate may select the courses to satisfy their master's degree program requirements.
+
+ProgramUnitsMS IT144MS EAI144MS ECE97
+
+MS AD in ECE133
+Refer to CIT policy on M.S. degree units https://www.cit.cmu.edu/education/academic- policies/graduate-policies/registration-grading-credit.html#m.s.-degree-units
+
+
+Course Add/Course Location
+Students must contact their Academic Advisor to change a degree program course schedule. For the Fall and Spring course offerings refer to the CMU-Africa Course Schedules. To view course offerings at other CMU locations student can refer to the Schedule of Classes (SOC).
+
+Academic Calendar
+For the current CMU-Africa academic calendar refer to the 2023-2024 Academic Calendar. The academic calendar has deadlines for class schedules, add/drop, tuition payment and other important dates.
+
+The following online services have been established to improve our student services. All applications can be found by visiting the HUB's website.
+
+Schedule of Classes (SOC)
+SOC is a real-time searchable database of course information, including course descriptions. To log on, go to the Schedule of Classes. Course information is also found on the CMU- Africa Fall 2023 schedule.
+
+Academic and Enrollment Forms
+To access academic and enrollment forms like Course Withdrawal, Leave of Absence, Transcript Request, Change of Name and others visit www.cmu.edu/hub/forms.html.
+
+Course Changes: Add, Drop, Conflicts, Withdrawal, and Voucher Election
+It is mandatory for students to adhere to the instructions and timeline below to change their degree program course schedule, add/drop or withdraw from a course, pass/no pass options, and obtain guidance on the voucher request process. Refer to the CMU-Africa 2023-2024 Academic Calendar for information on deadlines.
+
+After the add period it is mandatory for full-time graduate students to maintain full-time status and be enrolled in at least 36 units unless there are unforeseen extenuating circumstances. For students to drop below full-time status they must consult with the Academic Advisor. Students are not permitted to use vouchers to drop below full-time status.
+
+It is imperative students adhere to the drop course deadline and when possible before the deadline to help administrators to shorten the waitlist and allow other students to register. Students should check their tuition bill after dropping a course on their Student Account.
+
+Students are not permitted to register for two courses held at the same time and will cause a conflict with their class schedule. Registration may be permitted with consent from the
+
+course instructor. After instructor permission is granted the student must inform the Academic Advisor to be given access to register for the courses.
+
+
+
+
+Prerequisites
+While the university may allow you to register for courses without the published prerequisite, it is the student's responsibility to have adequate background knowledge to be successful in the course. You should consult with the instructors because it is up to their discretion whether or not a prerequisite course can be waived.
+
+To access any of The HUB's online services:
+? Go to www.cmu.edu/hub
+? Choose the appropriate online service from the left-hand navigation
+    ? Log into the system by entering your Andrew User ID and password Enrollment Verification
+Students can request an official CMU-Africa enrollment verification online through the HUB portal.
+
+Faculty Course Evaluations (FCE)
+The purpose of Faculty Course Evaluations are used to improve the quality of teaching and learning outcomes at CMU-Africa. All students are given an opportunity at the end of each semester to provide anonymous feedback to faculty and all are encouraged to share..
+
+Degree Certification Process and Graduation
+It is mandatory for graduate students to fulfill all degree requirements within the standard length of time of the master's program of study and earn an overall 3.0 QPA to be eligible for master's degree certification. During the matriculation process students are required to submit Graduate Admissions with an official final copy of their undergraduate transcript(s). Students must have a USD 0.00 balance on their Student Account to receive a CMU-Africa diploma.
+CMU-Africa has a graduation ceremony at the end of each spring semester. Students who are certified after the ceremony are eligible to attend the graduation ceremony.
+
+Prior to the graduation ceremony the Academic Advisor will provide students with diploma prototype to verify the master's degree earn their name before printing.
+
+ACADEMIC STANDARDS AND PERFORMANCE
+
+
+University Policy on Grades
+The following section outlines in detail the CMU grading policy and outlines grading principles and standards for graduate students enrolled in courses at CMU-Africa
+
+CMU-Africa adheres to the CIT letter grade scale. The letter grade scale is as follows: 'A- ', 'B+', 'B', 'B- ', 'C+', 'C', 'C- ', 'D+', 'D', and 'R'. CIT students will not receive an 'A+' grade on their transcript even if a course is taken at another college that posts 'A+' on the student's transcript. Grades that are lower than a C- are considered a "No Pass" at CMU- Africa in the CIT and will not count toward fulfilling master's degree requirements.
+Quality Point Average
+For the Academic Advisor to certify students for graduation the student must have a Cumulative Quality Point Average (CQPA) of at least 3.0 or B in required courses earned for their master's degree program. Coursework or graduate project units with a grade lower than 'C' will not be considered to fulfill course requirements for their master's degree program.
+Courses with a grade lower than "C" are calculated into the student's cumulative QPA.
+Academic Probation
+For students with a semester QPA below a 3.0 will be placed on academic probation. The Academic Advisor will officially inform the student of their academic probation by letter. During the academic probation period it is mandatory for the student to meet with the Academic Advisor and adhere to recommendations to improve the subsequent semester.
+
+Once a student's semester QPA is above 3.0 he/she is automatically removed from academic probation. If a student has a semester QPA lower than 3.0 at the end of two consecutive full semesters he/she may be permanently dismissed from the master's program at the discretion of the Director of CMU-Africa. Students in this circumstance will have an opportunity to appeal the dismissal and should refer to the Graduate Student Appeal and Grievance Procedures for guidance.
+
+ACADEMIC INTEGRITY
+Academic Integrity
+Students at Carnegie Mellon are engaged in preparation for professional activity of the highest standards. Each profession constrains its members with both ethical responsibilities and disciplinary limits. To assure the validity of the learning experience a university establishes clear standards for student work.
+In any presentation, creative, artistic, or research, it is the ethical responsibility of each student to identify the conceptual sources of the work submitted. Failure to do so is dishonest and is the basis for a charge of cheating or plagiarism, which is subject to disciplinary action.
+
+CMU-Africa adheres to the Carnegie Mellon University Academic Integrity Policy and all students are expected to review the policies prior to their arrival at CMU-Africa. The policy includes the University expectations around academic integrity and provides definitions of cheating, plagiarism, and unauthorized assistance.
+
+In addition, instructors are responsible for defining academic integrity for students in their courses, including student performance expectations and attendance requirements. Students are responsible for understanding and abiding by the instructor's academic integrity policies. Policies may vary from instructor to instructor and students should seek further guidance from a faculty member if they have specific questions about a course's academic integrity policy.
+Definition of Cheating and Plagiarism
+Cheating includes but is not necessarily limited to:
+? Plagiarism, explained below.
+? Submission of work that is not the student's own for papers, assignments, or exams.
+? Submission or use of falsified data.
+? Theft of or unauthorized access to an exam.
+? Use of an alternate, stand-in or proxy during an examination.
+? Use of unauthorized material including textbooks, notes, or computer programs in the preparation of an assignment or during an examination.
+? Supplying or communicating in any way unauthorized information to another student for the preparation of an assignment or during an examination. Note that giving unauthorized assistance is considered cheating even if no specific student who benefits from the assistance is identified.
+? Collaboration in the preparation of an assignment. Unless specifically permitted or required by the instructor, collaboration will usually be viewed by the university as cheating. Each student, therefore, is responsible for understanding the policies of the department offering any course as they refer to the amount of help and collaboration permitted in preparation of assignments.
+? Submission of the same work for credit in two courses without obtaining the permission of the instructors beforehand.
+
+Plagiarism includes, but is not limited to, failure to indicate the source with quotation marks or footnotes where appropriate if any of the following are reproduced in the work submitted by a student:
+? A phrase, written or musical
+? A graphic element
+? A proof
+? An idea derived from the work, published or unpublished, of another person
+
+Academic Integrity Procedures
+For detailed information on Academic Policies and Academic Disciplinary Actions students should refer to The Word: Student Handbook. Students should refer to the Office of Community Standards & Integrity to obtain information and resources for student conduct.
+In accordance with CMU policy a student who violates the academic integrity policy will not be permitted to drop the course in which the offense occurred to avoid a penalty. If the student attempts to drop the course, they will be reenrolled.
+A student with multiple academic integrity violations may result in dismissal from the
+master's degree program. Students have the right to appeal an academic integrity decision.
+Disciplinary Probation
+Students who commit an academic integrity violation are placed on disciplinary probation within the department for the remainder of their academic program. While on disciplinary probation, students are allowed to continue with the program and are required to meet with the Academic Advisor.
+Academic Disciplinary Actions
+The procedures and penalties described in the University's Academic Disciplinary Actions are applied when there are academic integrity violations by graduate students. These procedures outline the process for investigating, reporting, and adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeal process.
+
+CMU-AFRICA ACADEMIC PROGRAMS
+With a major focus on the emerging knowledge-based economy on the continent, our graduate degree programs are educating future leaders who will use their hands-on, experiential learning to advance technology innovation and grow the businesses that will transform Africa.
+MASTER OF SCIENCE DEGREE REQUIREMENTS
+This section outlines the degree requirements for the CMU- Africa master's programs below. CMU-Africa course catalog provides the list of courses with descriptions.
+
+Degree ProgramMaster of Science in Information Technology (MS IT)Master of Science in Engineering Artificial Intelligence (MS EAI)Master of Science in Electrical and Computer Engineering (MS ECE)Master of Science in Electrical and Computer Engineering Advanced Study Program (MS-AD in ECE)
+Master of Science in Information Technology (MS IT)
+The MS IT degree curriculum offers three different areas of focus that include the following:
+(1) Professional Track, (2) Research Track, and (3) Entrepreneurial Track. Each track has specific core courses, elective courses, and projects and an overview is shown in table below.
+
+The Professional Track is designed for students interested in developing team project skills and becoming Information Technology (IT) professionals.
+
+The Research Track is designed for students interested in pursuing a research career or a Ph.D. after their MS IT.
+
+The Entrepreneurial Track is for students who want to develop their own entrepreneurship projects and technology business skills.
+
+Degree ComponentsProfessionalResearchEntrepreneurshipCore Courses60 Units60 Units60 UnitsElective Courses60 Units48 Units60 UnitsPracticum Project24 UnitsResearch Project36 UnitsEntrepreneurship Project24 UnitsMandatory 3-Month Internship0 Units0 Units0 UnitsTotal144 Units144 Units144 Units
+MS IT Core Courses
+All students are required to take 60 units of MS IT core courses outlined in the curriculum. It is mandatory for students to select 12 units from each of the five core areas for a total of 60 units. The five core areas listed below and refer to CMU-Africa course catalog list of
+1. IT Entrepreneurship
+2. Software
+3. Applied Machine Learning,
+4. Secure IT Networks
+5. Leadership and Professional Skills
+
+Current courses that meet the core requirements are listed in the table below
+
+IT EntrepreneurshipCourse NameCourse NumberCourse UnitsStrategic Uses of Digital Information and Enterprise04-61112ICT Business Economics and Finance04-61312Foundations of Entrepreneurship04-80012
+
+Quantitative Financial Analytics and Algorithmic Trading04-80012Market Planning for High Tech Innovation04-61212Tech Startups: Tools and Techniques04-61612SoftwareCourse NameCourse NumberCourse UnitsData Structures and Algorithms for Engineers04-63012Introduction to Systems Software Engineering04-80012Advanced Database Systems04-63112DevOps: Software Development and IT Operations04-63212Foundations of Software Engineering18-65212Software Architecture and Design04-63412Model-driven Software Engineering04-8016Embedded Systems Development04-63312Applied Machine LearningCourse NameCourse NumberCourse UnitsData, Inference, and Applied Machine Learning18-78512Introduction to Deep Learning11-78512Introduction to Probabilistic Graphic Models04-65412Artificial Intelligence for Engineers04-65512Recommender Systems04-80012Deep Learning Systems: Hardware, Compilers, and Algorithms04-8016Machine Learning for Earth Observation04-80012Social Network Analysis04-80012Secure IT NetworkCourse NameCourse NameCourse NameIntroduction of Information Security18-63112Fundamental of Telecommunications Computer Networks04-64112Internet of Things (IoT)04-64512Vulnerability Assessment and Testing04-72112Network Security18-73112Networking Lab18-85912Cyber04-62312Intrusion Detection Systems04-62512Information Systems Audit and Standards04-62412Applied04-6226Leadership and Professional SkillsCourse NameCourse NumberCourse UnitsICT in Africa Seminar (take in first year)04-6016ICT Entrepreneurship Seminar (take in first year)04-6036Global Leadership Seminar (take in second year)04-6046ICT Professional Development Seminar (take in second year)04-6056
+MS IT Internships and Projects
+MS IT Internship
+MS IT students must complete a 10-12-week full-time internship to fulfill a degree requirement. Under extraordinary circumstances, the internship requirement may be waived with permission from the CMU-Africa Director. The purpose of the internship is for students to work as short-term employees at an organization to gain technical and professional experience. Students are immersed in a business environment and given an opportunity to perform real IT and engineering work for the host organization.
+Students must be employed under contract by the organization during their internship. The expectation for the organization that offers the internship will compensate students with stipend that is paid monthly. The expectation for students is to deliver the results as defined in the temporary employment contract.
+Master's Practicum Project for Professional Track
+The Practicum provides an opportunity to consolidate and apply the skills and knowledge developed in previous coursework in a team-based effort to solve a real problem. A team of students works with a client on a real-world problem of value to the client. Most importantly, this is an opportunity to apply the team's advanced engineering and management skills, including the specialized knowledge and skills needed to solve a real problem. Team members must learn to work effectively with clients, quickly understand their problem, negotiate deliverables and then select, adapt and apply the right amount of process and documentation to meet clients' needs and effectively manage the project.
+
+Master's Entrepreneurship Project for Entrepreneurship Track
+The Entrepreneurship Project is an opportunity for students to build and practice skills in developing information technology ideas that create value for a selected set of customers. Students work in small teams on a concrete project to bridge the gap between entrepreneurial theory and practice. This project combines both independent team study and working with technical and professional mentors to apply concepts in the creation of a new information technology venture. Only a small number of students are expected to be allowed into the entrepreneurship project track, based on a selective process that assesses the entrepreneurship project that the student team proposes.
+
+Master's Research Project for Research Track
+The Research Project is conducted under the supervision of a faculty research adviser who first approves the proposed research project based on the student's skills and mutual research interests. The research adviser and the student define and approve a study plan appropriate for the research. The research project will lead to a presentation and defense of a thesis in front of a committee and may lead to the submission of a scholarly paper.
+
+Engineering Independent Study
+With the approval and supervision of a faculty member students perform an Independent Study that focuses on a topic that is pertinent to their interest of study. It is mandatory for the student to obtain approval from the faculty member that will supervise the topic and plan of
+
+study. If approved the independent study can fulfill 3 to 15 units toward the MS IT degree. The Independent Study form must be signed by the student and faculty member. The Independent Study option is not available for students choosing the MS IT Research Track.
+MS IT Elective Courses
+Students can select 60 units of elective courses in the MS IT program. Online elective courses cannot exceed 12 units of the 60 units of elective courses. Students can submit a request for an expectation to the Director of Academics.
+
+MS IT Sample Timeline The MS IT degree is designed for students complete core courses, elective course courses, and in three or four semesters plus a three-month internship.
+Students can complete the program in three semesters by taking one additional 12-unit course in two of the three semesters. A standard four-semester schedule to earn the required 144 units for the MS IT master's degree program is outlined below.
+
+Semester 1 (late Aug - Dec)Two core courses24 unitsOne elective course12 unitsSemester 2 (Jan - mid-May)Two core courses24 unitsOne elective course12 unitsA first year seminar6 unitsMS IT Internship (mid-May - mid-Aug)Semester 3 (Aug - Dec)Master's Practicum24 unitsOne core course12 unitsA second year seminar6 unitsSemester 4 (Jan - May)Two elective courses24 units
+Total Units
+144 units
+Master of Science in Engineering and Artificial Intelligence (MS EAI)
+Engineering Artificial Intelligence (EAI) is motivated by the explosive growth in applications of Artificial Intelligence (AI). There is a need to apply not just the mathematical and scientific principles of the AI discipline, but also to embed these in engineering principles of design, processes, systems, manufacture, and construction. As a graduate engineering degree, EAI intersects with specific engineering disciplines, but also cuts across disciplines to address important problems in areas such as transportation, building systems, manufacturing, energy, agriculture, security, health, and climate. While providing a solid foundation in EAI, the degree also provides students with an opportunity to focus on any of these cross-cutting areas, including a significant engineering application project.
+
+MS EAI Core Courses
+All students are required to take 72 units of MS EAI core course. Students must select 12 units from each of the six categories shown in the table below that includes a list of current courses that meet the core requirements.
+
+AreaCategoriesCourses
+
+Mathematical Fundamentals18-751 Applied Stochastic Processes (12 units)
+18-665 Advanced Probability & Statistics for Engineers (12 units)
+04-650 Mathematical Foundations of Machine Learning (12 units)
+Introduction to Artificial Intelligence04-655 Artificial Intelligence for Engineers (12 units)
+18-662 Principles and Engineering Applications of AI (12 units)Core (72 units)Introduction to Machine Learning18-661 Introduction to Machine Learning for Engineers (12 units)Choose 12 units from each
+category
+
+Data Analytics18-785 Data, Inference, and Applied Machine Learning (12 units)
+18-787 Data Analytics (6 units)
+18-788 Big Data Science (6 units)
+
+Advanced AI and ML04-654 Introduction to Probabilistic Graphical Models (12 units)
+11-785 Introduction to Deep Learning (12 units) 18-786 Introduction to Deep Learning (12 units)
+18-797 Machine Learning for Signal Processing (12 units)EAI Systems Designs04-652 AI System Design (12 units)Engineering
+Electives (48 units)
+AI and domain specific engineering courses
+
+See the Engineering Electives section belowAppliedEngineeringStudent project developed over04-651 Applications of AI in Africa (6 units)Project (24several semesters starting in the04-653 EAI Project Methods (6 units)units)first semester04-950 EAI Capstone (12 units)
+MS EAI Engineering Electives
+
+Elective Courses will allow students gain a focus relative to their engineering discipline. Students take 48 units in consultation with their advisor. This is an opportunity to focus on AI, machine learning, or data processing and storage courses. Alternatively, students can build on their undergraduate engineering to take advanced courses in specific engineering domains such as energy systems, cyber security, or building systems to develop the engineering context in which to embed their AI expertise.
+Students work with their faculty advisors to select College of Engineering courses with numbers that begin with the following code:
+
+Department Course CodeEngineering Program42Biomedical Engineering04CMU-Africa06Chemical Engineering12Civil and Environmental Engineering39CIT18Electrical and Computer Engineering19Engineering and Public Policy14Information Networking Institute27Material Science and Engineering24Mechanical Engineering
+Only technical and non-project courses can be used for this requirement. The following courses cannot be counted toward the degree requirements:
+
+Course NumberCourse Name04-601ICT in Africa Seminar04-603ICT Entrepreneurship Seminar04-604Global Leadership04-606Academic Skills for Engineers I04-607Academic Skills for Engineers II04-608Advanced Academic Skills for Engineers04-609Advanced Academic Skills for Engineers II04-980Engineering Independent Study04-990Engineering Research Project18-980M.S. Graduate Project
+All courses must be at graduate level 600 and above. Of the 36 units of domain specialization electives, at least 24 must meet the above requirements. Up to 12 units can either be undergrad courses 300 and above in the College of Engineering or be 600 and above courses from outside the College of Engineering as approved by your Academic Advisor.
+
+Engineering Electives 48 Units
+A. It is mandatory that 36 units be 600 level or above within the College of Engineering and from the following departments:
+
+Course NumbersDepartments42-xxxBiomedical Engineering04-xxxCMU-Africa06-xxxChemical Engineering39-xxxCIT12-xxxCivil and Environmental Engineering18-xxxElectrical and Computer Engineering19-xxxEngineering and Public Policy14-xxxInformation Networking Institute27-xxxMaterial Science and Engineering24-xxxMechanical Engineering
+Exceptions
+The courses below may not be countered toward Engineering Elective Coursework.
+Course NumbersDepartments04-601CMU-Africa04-60304-60404-60504-60604-60604-60704-60804-60904-90004-91018-701Electrical and Computer Engineering18-70224-792Mechanical Engineering18-701Electrical and Computer Engineering18-702
+B. It is a requirement that 12 units be from either of the following areas:
+
+i. College of Engineering Departments: 300 level or higher
+ii. Any CMU department with the approval of the Academic Advisor: 600 level or higher MS EAI Applied Engineering Project
+Students place applicable learning into practice through a 24-unit project. The project starts in the first semester through a seminar class where students study different engineering applications of AI and Machine Learning to opportunities in Africa. In subsequent semesters they develop their system design as well as their project plan. In their second year, they implement and test their solution for review by faculty and external sponsors.
+
+Master of Science in Electrical and Computer Engineering (MS ECE)
+Master of Science in Electrical and Computer Engineering (MS ECE) comprises a broad and diverse set of areas and permeates nearly all areas of application of importance in society today. ECE ranges from nanotechnology to large scale systems and impacts areas such as communications, computing and networking, energy, cyber-physical systems, biotechnology, robotics, computer vision, information storage and security, data analytics, distributed systems, and privacy. Faculty and students in ECE seek to advance education and technology in all areas of this field and are engaged in teaching and research that advances both the fundamentals of the field through advances in materials, devices, circuits, signal processing, control, computer architecture, and software systems as well as through the design, building, and demonstration of systems at all scales. This is a dynamic and exciting field to be a part of and the Department of Electrical and Computer Engineering offers the very best programs at all levels for students to engage in this field.
+The MS ECE degree at CMU-Africa is one and the same degree as is offered on the main campus in Pittsburgh. The Pittsburgh campus manages the MS ECE degree and graduation requirements. For more information about the MS ECE program, including the course requirements and curriculum refer to ECE website.
+
+Master of Science in ECE Advanced Degree Program (MS-AD in ECE)
+The Master of Science in ECE Advanced Degree Program  is a three or four semester program and the duration is from 16 to 20 months that comprises of 133 units of graduate coursework. The MS-AD in ECE program allows students admitted into the MS ECE program to take additional courses or execute project work. The extra courses allow students to delve into greater depth and specialization beyond the standard MS ECE program.
+Students also have the option to do an extended research project to help prepare them for Ph.D. studies and a potential career in research.
+The MS ECE degree comprises of 133 units and this includes coursework and project options. For more information about the MS ECE program, including the course requirements and curriculum refer to ECE website.
+
+Course Option RequirementsECE Core Courses60 UnitsCIT Elective Courses36 UnitsGeneral Technical Elective Courses36 UnitsIntroduction to Graduate Studies1 UnitTotal133 Units
+A maximum of 12 units of undergraduate coursework at the 300-level or higher can qualify toward the 133 units of core or elective ECE degree requirements. Qualifying coursework must be offered by the same department as either an approved core or elective course.
+
+Project Option RequirementsECE Core Courses48 UnitsCIT Elective Courses24 UnitsGeneral Technical Elective Courses24 UnitsGraduate Project Coursework36 UnitsIntroduction to Graduate Studies1 UnitTotal133 Units
+A maximum of 12 units of undergraduate coursework at the 300-level or higher can qualify to be substituted toward the 133 units of core or elective requirements. Qualifying coursework must be offered by the same department as either an approved core or elective course.
+
+UNIVERSITY POLICIES/CMU-AFRICA PROTOCOLS
+Complete CMU Policies
+For a complete reference to graduate education policies at Carnegie Mellon University, please visit http://www.cmu.edu/graduate/policies/index.html
+
+Change of Degree Program
+Students are expected to graduate from the degree program for which they were admitted. In extraordinary circumstances, students may switch their degree program between MS IT and MS EAI. It is not possible to change between MS IT/MS EAI and MS ECE without withdrawing from the current program and following the regular application process for the new program. A change from MS ECE to MS-AD in ECE or vice versa is academically straightforward but may have financial assistance implications. Contact your Academic Advisor for additional information.
+Student Leave Policy
+Due to unforeseen circumstances a student may have an interruption with their studies for personal, financial, academic, or others. Students choosing to that decide to take a leave of absence must first contact and consult with their Academic Advisor to discuss their seamless plan to leave and return plan Carnegie Mellon University-Africa to complete degree program.
+
+A student may leave Carnegie Mellon University by either withdrawing from the university with no intention of returning or by taking a leave of absence with the firm and stated intention of returning to complete degree program. For more information refer to the Student Leave Policy.
+
+Student Suspension/Required Withdrawal Policy
+All students should refer to the  Student Suspension/Required Withdrawal policy to become familiar with the three types of suspensions describe below.
+
+Academic Suspension is the result of poor academic performance or violation of academic regulations and is imposed by the student's college or academic department (see university and college academic policies).
+
+Disciplinary Suspension is the result of serious personal misconduct and is imposed by the Office of Student Affairs and for more information refer to The Word/Student Handbook.
+
+Administrative Suspension is the result of failure to meet university financial obligations or failure to comply with local health regulations and is imposed by Enrollment Services. For more information refer to the Student Accounts Receivable Collection Policy and Procedures for financial obligations. Contact Student Health Services for information about health regulations.
+
+Students that are on suspension may not:
+? register for courses
+? attend classes
+? use campus facilities
+? participate in student activities
+? be members of student organizations
+? have student jobs
+Withdrawal of a Degree
+The university reserves the right to withdraw a degree even though it has been granted should there be discovery that the work upon which it was based or the academic records in support of it have been falsified. In such a case the degree will be withdrawn promptly upon discovery of the falsification. The complete reference to this university policy is available at: http://www.cmu.edu/policies/student-and-student-life/withdrawal-of-a-degree.html.
+
+Returning to Carnegie Mellon
+When a student plans to return to CMU after a leave of absence, he/she must complete the Petition for Return from Leave of Absence form at least one month prior to the start of the semester. We recommend doing so prior to the registration period for the upcoming semester (for Fall, April and for Spring, November). The student must also meet any conditions that were set by the program, the department, or the university at the time of leave was granted. Further information about the Carnegie Mellon University policy on student return is available at the following link: https://www.cmu.edu/policies/student-and-student-life/return- student.html
+
+Statute of Limitations for Master's Degree Studies
+All units required for a master's degree in the College of Engineering, whether earned in residence or transferred from another institution, must be recorded on the transcript within six years of the date on which the student enrolled in the program. This statutory period can be extended by the CIT (College of Engineering) Associate Dean for Graduate and Faculty Affairs for special circumstances that do not make it possible for the student to complete the requirements within the statutory period. Any request for a waiver of the statute of limitations for master's degree studies must be approved by the head of the department or program offering the master's degree and by the CIT Associate Dean for Graduate and Faculty Affairs. The waiver request must explain the exceptional circumstances that warrant an extension. For cases in which a waiver is granted, the waiver will cover specific courses and will specify a time period for completion of the program.
+
+See: https://www.cmu.edu/policies/student-and-student-life/masters-students-statute-of- limitations.html
+
+Summary of Graduate Student Appeal and Grievance Procedures
+Graduate students will find the Summary of Graduate Student Appeal and Grievance Procedures on the Graduate Education Resource webpage. This document summarizes processes available to graduate students who seek review of academic and non-academic issues. Generally, graduate students are expected to seek informal resolution of all concerns within the applicable department, unit, or program before invoking formal processes. When an informal resolution cannot be reached, however, a graduate student who seeks further review of the matter is to follow the formal procedures outlined here. These appeal and grievance procedures shall apply to students in all graduate programs of the University.
+Students should refer to the department specific information in this handbook for department and college information about the administration and academic policies of the program.
+
+Intellectual Property Policy
+This policy should be reviewed in its entirety: http://www.cmu.edu/policies/documents/IntellProp.html This policy attempts to:
+? Create an environment that encourages generation of new knowledge by members of the campus community.
+? Facilitate wide transfer of useful inventions and writing to society.
+? Motivate the development and dissemination of intellectual property by providing appropriate financial rewards to the creators and the university, and administrative assistance to creators.
+? Ensure that financial return from the development of intellectual property does not distort decisions and operations of the university contrary to the university's mission.
+
+Maternity Accommodation Protocol
+Students whose anticipated delivery date is during the semester may consider taking time away from their coursework and/or research responsibilities. All female students who give birth to a child while engaged in coursework or research are eligible to take either a short- term absence or formal leave of absence. Students taking courses should consider either working with their course instructor to receive incomplete grades or elect to drop to part-time status or to take a semester leave of absence. Students engaged in research must work with their faculty to develop plans for the research for the time they are away.
+
+Students are encouraged to consult with relevant university faculty and staff as soon as possible as they begin making plans regarding time away. Planning for the student's discussion with her academic contact(s) (advisor, director, etc.) will be reviewed during this meeting.
+
+Note: The Academic Advisor can assist you with more information on the academic policies. Send email to studentsupport-africa@andrew.cmu.edu.
+
+Safeguarding Educational Equity / Sexual Misconduct Policy
+The University prohibits sex-based discrimination, sexual harassment, sexual assault, dating/domestic violence, and stalking. The University also prohibits retaliation against individuals who bring forward such concerns or allegations in good faith. The University's Sexual Misconduct Policy is available at https://www.cmu.edu/policies/administrative-and- governance/sexual-misconduct/index.html. The University's Policy Against Retaliation is available at https://www.cmu.edu/policies/administrative-and- governance/whistleblower.html. If you have been impacted by any of these issues, you are encouraged to make contact with any of the following resources:
+? Office of Title IX Initiatives, https://www.cmu.edu/title-ix/
++1 412-268-7125, tix@cmu.edu
+? University Police, +1 412-268-2323
+Additional resources and information can be found at: https://www.cmu.edu/title- ix/resources-and-information/resources.html.
+
+At CMU-Africa, if you are a victim of sexual harassment or sexual assault, you are encouraged to contact any of the following resources:
+? National Police at 3512
+? CMU-Africa Student Services Officer at +250 786-183-378
+? Counseling & Psychological Services, +250 783-826-957, +1 412-268-2922
+
+Assistance for Individuals with Disabilities
+Equal Opportunity Services serve as links between individuals with disabilities and the campus community. Academic accommodation is determined on a case-by-case basis. To receive services/academic accommodation, verification of a disability is required as recommended in writing by a doctor, licensed psychologist, or psycho-educational specialist.
+
+All information will be considered confidential and can only be released to appropriate personnel when there is evidentiary concern for the individual and community safety.
+
+To access the academic accommodation services, individuals must initiate a request in writing for specific services/academic accommodations (books on tape, enlargements, interpreters, etc.). The University makes available memorandums of introduction which document disability and describe the accommodation required for students to present to their professors.
+
+For more information or to initiate a request for academic accommodations, please contact the Student Services Officer: studentsupport-africa@andrew.cmu.edu.
+
+Ethics Reporting Hotline
+The health, safety and well-being of the university community is top priority at Carnegie Mellon University. CMU provides a hotline that all members of the university community should use to confidentially report suspected unethical activity relating to financial matters, academic and student life, human relations, health and campus safety, or research.
+Students, faculty, and staff can anonymously file a report by calling 877-700-7050 or visiting www.reportit.net (user name: tartans; password: plaid). All submissions will be reported to appropriate university personnel.
+The hotline is NOT an emergency service. Emergency Contacts
+CMU-Africa has 24-hour security provided by Intersec Security Rwanda (ISCO) and a
+security video camera system. The security guards are present at the entrance of the building and around the campus 24/7. If you have a problem that requires immediate attention, please contact the Facilities Office that is in touch with the security guard on duty. If you have a security incident to report, please submit a written statement to the Chief Operations Manager, Alphonse Niyibizi, at africa-facilities@andrew.cmu.edu and to the Associate Director of Student Affairs, Ines Manzi, at studentsupport-africa@andrew.cmu.edu
+
+If you are in an emergency situation such as a fire, assault, feel physically endangered, or are witnessing a crime, you should call Rwanda Police at the following toll-free numbers:
+
+General Emergency - 112
+
+Gender Based Violence - 3512
+
+Full Time vs. Part Time: Working While Studying
+The MS ECE, MS-AD in ECE, MS EAI, and MS IT programs are intended to be full-time programs. Full time is defined as signing up for and maintaining at least 36 units throughout the semester. Dropping or withdrawing from classes so that the remaining classes total to less than 36 units does not qualify as maintaining full time status. Full time status must be
+maintained by students who are on a scholarship or other financial aid. In a student's final semester, they may take less than 36 units as long as this allows them to complete their
+
+degree. In semesters with fewer than 36 units, the tuition is prorated relative to 36 units. Students spending a semester in Pittsburgh must maintain at least 36 active units of technical courses even if it is their last semester (withdrawal units, pass-fail units, and non-technical course units will not be considered to make up for full time units).
+
+Students who wish to work while pursuing their CMU degree should discuss this with the Academic Advisor studentsupport-africa@andrew.cmu.edu
+
+In no case should a student work while receiving a scholarship without written approval of the scholarship sponsor. Student should seek advice from the Associate Director of Student Affairs studentsupport-africa@andrew.cmu.edu
+
+POST-MATRICULATION GUIDELINES
+Return of University Property
+Students must return all borrowed CMU-Africa material such as laptops, phones/tablets, books, or any other Carnegie Mellon University property. A signed clearance form is required prior to their departure from the program. The clearance form will be sent to students upon completing the program and before graduation day.
+
+Career Services Graduate Destination Survey
+Every Fall and Spring semester the Career Services Office asks CMU-Africa recent graduates about their post-graduation plans of whether they plan to work in the industry, pursue a Ph. D program, or explore other career or research interests. The short graduate destination survey will take less than five minutes to complete, and the results are valuable for future graduates
+to learn about "what's next" after graduation and your feedback will help the Career Services Office to plan to meet student needs in the future.
+
+FINANCIAL ISSUES
+Tuition sponsorship
+Students with government, business or company sponsorship must provide the Associate Director of Student Affairs with a copy of their sponsorship letter and/or financial guarantee from their sponsor. Additionally, the student must sign the info release form to allow Carnegie Mellon University Africa to share grade and academic progress information with their sponsor. The sponsorship letter should be returned to the Associate Director of Student Affairs Office. For inquiries, please send email to studentsupport-africa@andrew.cmu.edu.
+
+CMU-Africa Financial Aid
+CMU-Africa has a variety of scholarships and fellowships that provide financial support for graduate students with an exceptional academic record and demonstrated leadership potential. The Director of CMU-Africa will determine the amount of fellowships and will select awardees in accordance with university policies and procedures. Please contact the Associate Director of Student Affairs studentsupport-africa@andrew.cmu.edu for more information.
+
+Part time jobs are available at CMU-Africa. Different categories of part time jobs include teaching assistance, administrative assistance, IT assistance and should not exceed 10 hours per week during the academic year.
+
+Billing & Payments
+Carnegie Mellon University Africa accepts payments by wire transfer or bank deposit. The account information needed for a wire transfer is included at the bottom of each invoice. The name of the student must be included in the wire transfer message.
+
+The Student Accounts Office will work with students to set up manageable payment plans. Students with pending balances from a previous semester cannot add, drop, or register for the following semester courses. For graduating students, any balance greater than zero will not receive their diplomas, degree verifications and transcripts until the balances are fully settled.
+
+For more information regarding billing and payments, including electronic student account invoices (E-Bills), E-Pay/E-Refund, past due accounts, and more, visit the Student Financial Services page on the CMU-Africa website.
+
+CMU-AFRICA GRADUATE HANDBOOKS ACKNOWLEDGEMENT FORM
+The Carnegie Mellon University Africa program graduate student handbook serves to inform students about CMU-Africa programs procedures, policies, resources, degree requirements, and financial processes.
+
+Please read this document carefully and give special attention to the sections on academic integrity.
+
+To maintain your status as a CMU-Africa master's degree student, you must complete your review of this handbook and The Word handbook during the first week of classes and then sign a copy of this acknowledgement statement.
+
+By signing, you affirm that you have read a copy of the 2023-2024 Rword CMU-Africa graduate student handbook and The Word student handbook; that you understand the information contained therein, and that you agree to comply with the policies and procedures contained in the handbooks.
+
+Please return the signed acknowledgement form to: Mika Inamahoro, Student Services Officer.
+
+Note that this handbook is not intended to cover every situation that may arise during your course of study and is not a contract between you and the CMU-Africa programs.
+
+Should there be any disagreements between this document and the written policies of the College of Engineering and Carnegie Mellon University, the College and University documents take precedence. However, the handbook should be followed as your general guide to the goals, policies, practices, and expectations of the Carnegie Mellon University Africa Master's Program.
+
+
+
+
+Signature and Date
+
+
+
+
+
+
+Printed Name
+
+Sign & return to CMU-Africa Office of the Student Services Officer.
+
+
